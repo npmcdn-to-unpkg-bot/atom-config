@@ -1,0 +1,34 @@
+"*":
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "archive-view"
+      "language-c"
+      "language-clojure"
+      "language-coffee-script"
+      "language-csharp"
+      "language-go"
+      "language-java"
+      "language-make"
+      "language-mustache"
+      "language-objective-c"
+      "language-perl"
+      "language-php"
+      "language-property-list"
+      "language-source"
+      "language-toml"
+      "metrics"
+      "welcome"
+    ]
+    excludeVcsIgnoredPaths: false
+    themes: [
+      "atom-light-ui"
+      "solarized-light-syntax"
+    ]
+  editor:
+    backUpBeforeSaving: true
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "76e89b6f-4468-ff73-483b-71a1ed0d88d8"
+  welcome:
+    showOnStartup: false
